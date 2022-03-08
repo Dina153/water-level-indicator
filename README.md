@@ -2,12 +2,18 @@
 ## usage of water sensor
 
 ### used element:
-1-Ardinuo uno
-2-water sensor
-3-lcd
-4-pot
-5-2 RGB
-6-2 buzzers
+ 1- Ardinuo uno
+
+ 2- water sensor
+
+ 3- lcd
+
+ 4- pot
+
+ 5- 2 RGB
+
+ 6- 2 buzzers
+
 ### recommended application :
 ####Drugs application
 
